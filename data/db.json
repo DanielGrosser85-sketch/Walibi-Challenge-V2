@@ -1,0 +1,418 @@
+{
+  "players": [
+    {
+      "id": "p_1786747056481_o5jo",
+      "name": "grossek",
+      "house": "Haus 1",
+      "avatar": "assets/avatar_belaestigungspanda.jpg",
+      "points": 165,
+      "drinksCount": 3,
+      "completedQuests": [
+        "boss_park_king",
+        "coaster_untamed"
+      ],
+      "completedSideQuests": [
+        "side_yoy_duo"
+      ],
+      "rideCounts": {
+        "attr_yoy_chill": 2,
+        "attr_yoy_thrill": 1,
+        "attr_untamed": 1
+      },
+      "drinksDetail": {
+        "beer": 0,
+        "shot": 0,
+        "longdrink": 3,
+        "joint": 0,
+        "water": 0
+      },
+      "gutGlaubenCount": 0,
+      "sympathyPoints": 0,
+      "sympathyVotesReceived": [],
+      "unlockedTitles": [
+        "title_promille_03",
+        "title_promille_05",
+        "title_promille_08",
+        "title_thronanwaerter",
+        "title_promille_10",
+        "title_schnappschuss_legende",
+        "title_first_drop_survivor",
+        "title_untamed_bezwinger"
+      ],
+      "promilleLogs": [
+        {
+          "id": "pml_1788452666262_6vj9",
+          "value": 0.9,
+          "timestamp": "2026-09-03T16:24:26.262Z",
+          "timeStr": "18:23",
+          "note": "",
+          "photo": null
+        },
+        {
+          "id": "pml_1788453010683_ez43",
+          "value": 1.2,
+          "timestamp": "2026-09-03T16:30:10.683Z",
+          "timeStr": "18:30",
+          "note": "",
+          "photo": null
+        },
+        {
+          "id": "pml_1788459713938_qcmm",
+          "value": 1.29,
+          "timestamp": "2026-09-03T18:21:53.938Z",
+          "timeStr": "20:21",
+          "note": "",
+          "photo": null
+        }
+      ]
+    },
+    {
+      "id": "p_1788461285579_x1jp",
+      "name": "otto",
+      "house": "Haus 1",
+      "avatar": "assets/avatar_kloetterich.jpg",
+      "points": 35,
+      "drinksCount": 3,
+      "completedQuests": [],
+      "completedSideQuests": [],
+      "rideCounts": {},
+      "drinksDetail": {
+        "beer": 0,
+        "shot": 1,
+        "longdrink": 2,
+        "joint": 0,
+        "water": 0
+      },
+      "rpgClass": "motivator",
+      "stats": {
+        "magen": 10,
+        "blase": 5,
+        "geduld": 4,
+        "durst": 6,
+        "adrenalin": 10
+      },
+      "unlockedTitles": [
+        "title_thronanwaerter"
+      ],
+      "promilleLogs": [],
+      "promilleOptIn": true,
+      "gutGlaubenCount": 0,
+      "sympathyPoints": 0
+    }
+  ],
+  "houses": [
+    "Haus 1",
+    "Haus 2",
+    "Haus 3"
+  ],
+  "feed": [
+    {
+      "id": "feed_1788461844038_2vml9",
+      "type": "quest",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "questId": "coaster_untamed",
+      "questTitle": "UNTAMED: Hard Gaan Bezwinger 🪵",
+      "questDescription": "Hybrid-Achterbahn UNTAMED mit Händen oben fahren & 'HARD GAAN!' beim First Drop brüllen.",
+      "questIcon": "🪵",
+      "points": 40,
+      "basePoints": 40,
+      "actualPointsAwarded": 40,
+      "selectedOutcome": null,
+      "isFaithBased": false,
+      "isHappyHour": false,
+      "witnesses": [
+        {
+          "userId": "p_1788461285579_x1jp",
+          "userName": "otto",
+          "userAvatar": "assets/avatar_kloetterich.jpg",
+          "confirmed": true,
+          "confirmedAt": "2026-09-03T18:57:38.717Z"
+        }
+      ],
+      "witnessPending": false,
+      "photo": null,
+      "isVideo": false,
+      "userComment": "",
+      "timestamp": "2026-09-03T18:57:24.038Z",
+      "requiresVoting": false,
+      "votingLabel": "Leistung & Ausführung",
+      "votes": {},
+      "votingUnlocked": false,
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_1788461844031_ey68o",
+      "type": "quest",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "questId": "coaster_untamed",
+      "questTitle": "UNTAMED: Hard Gaan Bezwinger 🪵",
+      "questDescription": "Hybrid-Achterbahn UNTAMED mit Händen oben fahren & 'HARD GAAN!' beim First Drop brüllen.",
+      "questIcon": "🪵",
+      "points": 40,
+      "basePoints": 40,
+      "actualPointsAwarded": 0,
+      "selectedOutcome": null,
+      "isFaithBased": false,
+      "isHappyHour": false,
+      "witnesses": [
+        {
+          "userId": "p_1788461285579_x1jp",
+          "userName": "otto",
+          "userAvatar": "assets/avatar_kloetterich.jpg",
+          "confirmed": false,
+          "confirmedAt": null
+        }
+      ],
+      "witnessPending": true,
+      "photo": null,
+      "isVideo": false,
+      "userComment": "",
+      "timestamp": "2026-09-03T18:57:24.031Z",
+      "requiresVoting": false,
+      "votingLabel": "Leistung & Ausführung",
+      "votes": {},
+      "votingUnlocked": false,
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_achieve_p_1786747056481_o5jo_side_yoy_duo",
+      "type": "achievement",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "achievementId": "side_yoy_duo",
+      "achievementTitle": "YOY Doppel-Duell (Chill & Thrill) ⚡",
+      "achievementDesc": "Fahre beide Spuren von YOY (Chill und Thrill) am selben Tag!",
+      "achievementIcon": "⚡",
+      "points": 45,
+      "basePoints": 45,
+      "actualPointsAwarded": 45,
+      "isHappyHour": false,
+      "timestamp": "2026-09-03T18:40:09.598Z",
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_promille_1788459713938_4o7e",
+      "type": "promille",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "text": "🚨 Offizielle Promille-Messung: 1.29 ‰! ",
+      "photo": null,
+      "points": 10,
+      "actualPointsAwarded": 10,
+      "isHappyHour": false,
+      "timestamp": "2026-09-03T18:21:53.938Z",
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_promille_1788459713932_lj5k",
+      "type": "promille",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "text": "🚨 Offizielle Promille-Messung: 1.29 ‰! ",
+      "photo": null,
+      "points": 10,
+      "actualPointsAwarded": 10,
+      "isHappyHour": false,
+      "timestamp": "2026-09-03T18:21:53.932Z",
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_1788457818418_7lcen",
+      "type": "quest",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "questId": "boss_park_king",
+      "questTitle": "👑 END-BOSS SIEG: grossek gewinnt das Promille-König-Finale!",
+      "questDescription": "grossek hat das epische End-Boss Duell gewonnen und sichert sich +70 Punkte!",
+      "questIcon": "👑",
+      "points": 70,
+      "basePoints": 70,
+      "actualPointsAwarded": 0,
+      "selectedOutcome": null,
+      "isFaithBased": false,
+      "isHappyHour": false,
+      "witnesses": [
+        {
+          "userId": "p_1788452842515_b6cs",
+          "userName": "master",
+          "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+          "confirmed": false,
+          "confirmedAt": null
+        }
+      ],
+      "witnessPending": true,
+      "photo": null,
+      "isVideo": false,
+      "userComment": "",
+      "timestamp": "2026-09-03T17:50:18.418Z",
+      "requiresVoting": false,
+      "votingLabel": "Leistung & Ausführung",
+      "votes": {},
+      "votingUnlocked": false,
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_promille_1788453010683_qysx",
+      "type": "promille",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "text": "🚨 Offizielle Promille-Messung: 1.2 ‰! ",
+      "photo": null,
+      "points": 10,
+      "actualPointsAwarded": 10,
+      "isHappyHour": false,
+      "timestamp": "2026-09-03T16:30:10.683Z",
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_promille_1788453010674_5h2y",
+      "type": "promille",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "text": "🚨 Offizielle Promille-Messung: 1.2 ‰! ",
+      "photo": null,
+      "points": 10,
+      "actualPointsAwarded": 10,
+      "isHappyHour": false,
+      "timestamp": "2026-09-03T16:30:10.674Z",
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_promille_1788452666262_6x3u",
+      "type": "promille",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "text": "🚨 Offizielle Promille-Messung: 0.9 ‰! ",
+      "photo": null,
+      "points": 10,
+      "actualPointsAwarded": 10,
+      "isHappyHour": false,
+      "timestamp": "2026-09-03T16:24:26.262Z",
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    },
+    {
+      "id": "feed_promille_1788452666254_jal3",
+      "type": "promille",
+      "userId": "p_1786747056481_o5jo",
+      "userName": "grossek",
+      "userAvatar": "assets/avatar_belaestigungspanda.jpg",
+      "userHouse": "Haus 1",
+      "text": "🚨 Offizielle Promille-Messung: 0.9 ‰! ",
+      "photo": null,
+      "points": 10,
+      "actualPointsAwarded": 10,
+      "isHappyHour": false,
+      "timestamp": "2026-09-03T16:24:26.254Z",
+      "reactions": {
+        "🔥": [],
+        "🍺": [],
+        "👑": [],
+        "💀": [],
+        "👏": []
+      },
+      "comments": []
+    }
+  ],
+  "happyHour": {
+    "active": false,
+    "endsAt": null,
+    "multiplier": 2
+  },
+  "gameStatus": {
+    "isRunning": false,
+    "isEnded": true,
+    "startedAt": "2026-08-18T08:55:53.719Z",
+    "endedAt": "2026-09-03T18:45:05.549Z"
+  },
+  "version": 265,
+  "sympathyVotes": {},
+  "deletedPlayerIds": [
+    "p_1788452842515_b6cs",
+    "p_1788453644292_2q49",
+    "p_1788454357033_u86x"
+  ],
+  "lastResetTimestamp": "2026-08-18T08:55:53.719Z"
+}
